@@ -78,17 +78,17 @@ $(function() {
     });
 
     // Test suite for new feed selection
-    describe('New Feed Selection'function(){
+    describe('New Feed Selection',function(){
 
         /* Write a test that ensures when a new feed is loaded
          by the loadFeed function that the content actually changes.
         var entry1,entry2 */
 
         beforeEach(function(done){
-            loadFeed(1,function){
+            loadFeed(1,function(){
                 result1 = $(".feed").html();
                 done();
-            }
+            });
 
         });
 
