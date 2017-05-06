@@ -55,7 +55,7 @@ $(function() {
 
             //Checks if menu closes when clicked again
             $(".menu-icon-link").click();
-            expect($("body").hasClass("menu-hidden")).toBe(false);
+            expect($("body").hasClass("menu-hidden")).toBe(true);
          });
 
 

@@ -1,5 +1,9 @@
 ## Project Overview
 
+# How to open application
+
+Download the repository in your computer, unzip it and open index.html in your browser to see the working tests.
+
 # Feed Reader Testing Project
 
 This project is part of Udacity's Front End Development nanodegree program.
