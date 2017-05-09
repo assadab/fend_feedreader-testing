@@ -1,5 +1,7 @@
 ## Project Overview
 
+For a live preview, [click here](https://assadab.github.io/fend_feedreader-testing/) .
+
 # How to open application
 
 Download the repository in your computer, unzip it and open index.html in your browser to see the working tests.
